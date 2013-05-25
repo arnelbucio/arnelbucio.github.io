@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Arnel Bucio]]></title>
   <link href="http://arnelbucio.github.io/atom.xml" rel="self"/>
   <link href="http://arnelbucio.github.io/"/>
-  <updated>2013-05-25T17:49:49+08:00</updated>
+  <updated>2013-05-25T18:33:32+08:00</updated>
   <id>http://arnelbucio.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Arnel Bucio]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://arnelbucio.github.io/blog/test/"/>
+    <updated>2013-05-25T18:33:00+08:00</updated>
+    <id>http://arnelbucio.github.io/blog/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://arnelbucio.github.io/blog/hello-world/"/>
+    <updated>2013-05-25T18:24:00+08:00</updated>
+    <id>http://arnelbucio.github.io/blog/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello World</p>
+]]></content>
+  </entry>
   
 </feed>
