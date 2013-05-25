@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:title/
 source: source
 destination: public
 plugins: plugins
@@ -63,9 +63,9 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user: arnelbucio
-#github_repo_count: 0
-github_show_profile_link: true
+# github_user: arnelbucio
+# github_repo_count: 0
+# github_show_profile_link: true
 #github_skip_forks: true
 
 # Twitter
@@ -94,7 +94,7 @@ disqus_short_name: arnelbucio
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+#google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
